@@ -3,7 +3,14 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/Minh/D/NetBeansProjects/PhenikaaHRM/src/com/phenikaa/view/MainGUI.java</file>
+            <file>file:/E:/PhenikaaHRM/src/controller/QuanLyCanBo.java</file>
+            <file>file:/E:/PhenikaaHRM/src/model/CanBoPhenikaa.java</file>
+            <file>file:/E:/PhenikaaHRM/src/model/GiangVien.java</file>
+            <file>file:/E:/PhenikaaHRM/src/model/NghienCuuKhoaHoc.java</file>
+            <file>file:/E:/PhenikaaHRM/src/model/NhanVienHC.java</file>
+            <file>file:/E:/PhenikaaHRM/src/view/HRManagementGUI.java</file>
+            <file>file:/E:/PhenikaaHRM/src/view/Login.java</file>
+            <file>file:/E:/PhenikaaHRM/src/view/MainMenu.java</file>
         </group>
     </open-files>
 </project-private>
